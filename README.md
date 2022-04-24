@@ -5,8 +5,6 @@
 # Team members:
 • Ziad Abou-Ghali
 
-• Omar Shalaby
-
 • Matthew Barrera
 
 
